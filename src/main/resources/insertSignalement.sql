@@ -1,0 +1,2 @@
+insert into signalement(id, IMPORTANCE, OBJECT, DESCRIPTION, COMMENT, PLACE, IDPERSON) values (1, "high", "Lampe","Changement d'une lampe", "Lampe de l'iut Lyon", "160, avenue de l'université Bron 69500", 3);
+insert into signalement(id, IMPORTANCE, OBJECT, DESCRIPTION, COMMENT, PLACE, IDPERSON) values (2, "Medium", "Nettoyage","Nettoyage du trotoire", "Nettoyer les feuilles d'automne ", "23B Route d'heyrieux 69800 ST Priest", 4);
